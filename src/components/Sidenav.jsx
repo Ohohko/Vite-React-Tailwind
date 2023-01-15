@@ -16,6 +16,7 @@ const Sidenav =()=> {
             <AiOutlineHome size={20}/>
             <span className='pl-4'>Home</span>
           </a>
+          <p>dcdcds</p>
          </div>
         )
         :(
