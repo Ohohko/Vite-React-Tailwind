@@ -5,6 +5,7 @@ React + TailwindCss
  
 *i will use AWS CLI and AWS CodePipeline for CI/CD.
 *next week.
+
 ||||||| |||||||   ||||||| ||||||| |||||||   ||||||| ||||||| |||||||   |||||||
  
  Start vite server with  "npm run dev"
